@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Nestify</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="expo_system_ui_user_interface_style" translatable="false">automatic</string>
+  
+  <string name="shortcut_short_label">Device Management</string>
+  <string name="shortcut_long_label">Open Device Management</string>
+</resources>
