@@ -1,7 +1,7 @@
 import { useAuth } from "../context/authContext";
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
-const genAI = new GoogleGenerativeAI("AIzaSyA6h-7UeNe-0pdwTstRyOlRWDshnVUolzc");
+const genAI = new GoogleGenerativeAI("");
 
 // Mapping number words to their respective integer strings
 const numberWordsMap = {
