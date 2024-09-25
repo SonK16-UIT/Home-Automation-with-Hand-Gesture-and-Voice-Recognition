@@ -5,7 +5,7 @@ import { getStorage } from "firebase/storage";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBbJc68C2eNMOr6brPfK3PcelIZIxoOmsk",
+  apiKey: "",
   authDomain: "home-automation-raspi.firebaseapp.com",
   databaseURL: "https://home-automation-raspi-default-rtdb.firebaseio.com",
   projectId: "home-automation-raspi",
